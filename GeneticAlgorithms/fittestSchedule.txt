@@ -1,0 +1,12 @@
+FITTEST SCHEDULE OF GENERATION 102 WITH A FITNESS SCORE OF 0.002
+SLA100A - Uther - Roman 216 - 1 PM
+SLA100B - Uther - Logos 325 - 12 PM
+SLA191A - Lock - Logos 325 - 10 AM
+SLA191B - Tyler - Roman 201 - 1 PM
+SLA201 - Shaw - Beach 301 - 1 PM
+SLA291 - Glen - Loft 310 - 11 AM
+SLA303 - Shaw - Roman 201 - 12 PM
+SLA304 - Zeldin - Loft 206 - 12 PM
+SLA394 - Singer - Loft 206 - 1 PM
+SLA449 - Lock - Slater 003 - 2 PM
+SLA451 - Richards - Beach 301 - 2 PM
